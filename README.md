@@ -13,3 +13,9 @@ Para este desafio, foram usados os conhecimentos adquiridos no módulo de explor
 ### Contexto
 O objetivo foi construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel, que será responsável por fazer a reserva da hospedagem, calcular os valores das diárias e conceder desconto para as reservas maiores que 10 dias, além das validações como por exemplo não exceder a quantidade máxima de hóspedes por suíte.
 
+## Desafio 2 - Sistema de Gerenciamento para um Hotel
+Para este desafio, fooram usados os conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
+
+### Contexto
+Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
+

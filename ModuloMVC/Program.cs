@@ -1,6 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using ModuloMVC.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<ContactBookContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

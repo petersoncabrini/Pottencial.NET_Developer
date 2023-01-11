@@ -17,7 +17,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Content Remove="Views\Contact\Create.cshtml" />
-  </ItemGroup>
 </Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloAPI", "ModuloAPI.csproj", "{A9663D85-4365-479A-8B30-FB8D05BF7CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9663D85-4365-479A-8B30-FB8D05BF7CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9663D85-4365-479A-8B30-FB8D05BF7CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9663D85-4365-479A-8B30-FB8D05BF7CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9663D85-4365-479A-8B30-FB8D05BF7CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0280A874-4A1A-48A1-BD06-D6478CB7A2C7}
+	EndGlobalSection
+EndGlobal
